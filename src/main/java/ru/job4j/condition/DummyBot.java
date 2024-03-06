@@ -17,5 +17,7 @@ public class DummyBot {
         System.out.println(result);
         result = DummyBot.answer("Bye.");
         System.out.println(result);
+        result = DummyBot.answer("Can you add two plus two?");
+        System.out.println(result);
     }
 }
