@@ -13,7 +13,6 @@ public class Square {
         int[] array = calculate(4);
         for (int i : array) {
             System.out.println(i);
-
         }
     }
 }
